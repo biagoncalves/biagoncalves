@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 🏢 Cientista de Dados
+- 📊 Cientista de Dados
 - 📙 Graduanda em Economia
 
 <div align="center">
