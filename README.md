@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 - 📊 Cientista de Dados
-- 📙 Graduanda em Economia
+- 📙 Graduanda em Economia - UFBA
 
 <div align="center">
   <a href="https://github.com/biagoncalves">
