@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/biagoncalves">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=biagoncalves&show_icons=true&theme=swift&include_all_commits=true&&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biagoncalves&layout=compact&langs_count=7&theme=swift"/>
+  <img width="180cm" src="https://github-readme-stats.vercel.app/api?username=biagoncalves&show_icons=true&theme=swift&include_all_commits=true&&count_private=true"/>
+  <img width="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biagoncalves&layout=compact&langs_count=7&theme=swift"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
